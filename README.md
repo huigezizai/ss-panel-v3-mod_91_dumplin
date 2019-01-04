@@ -10,7 +10,7 @@ ss-panel-v3魔改版91改版dumplin再改版！
 
 ```
 yum install screen wget -y &&screen -S ss 
-wget -N --no-check-certificate https://raw.githubusercontent.com/dumplin233/ss-panel-v3-mod_91_dumplin/master/ss-panel-v3-mod.sh && chmod +x ss-panel-v3-mod.sh && bash ss-panel-v3-mod.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/huigezizai/ss-panel-v3-mod_91_dumplin/master/ss-panel-v3-mod.sh && chmod +x ss-panel-v3-mod.sh && bash ss-panel-v3-mod.sh
 
 ```
 如果导入原有数据库，需要下载IP解析库
